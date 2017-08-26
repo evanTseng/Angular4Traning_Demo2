@@ -5,6 +5,6 @@ interface NodeModule {
   id: string;
 }
 
-declare var $:any;
-declare var Colors: any;
 
+declare var Colors: any;
+declare var $: any;
